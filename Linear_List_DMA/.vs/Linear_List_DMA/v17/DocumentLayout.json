@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study\\C_TIL\\Linear_List_DMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC21CF5-6908-48A3-9F01-398CBD978E31}|Linear_List_DMA\\Linear_List_DMA.vcxproj|C:\\study\\C_TIL\\Linear_List_DMA\\Linear_List_DMA\\linear_list_DMA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CC21CF5-6908-48A3-9F01-398CBD978E31}|Linear_List_DMA\\Linear_List_DMA.vcxproj|solutionrelative:Linear_List_DMA\\linear_list_DMA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linear_list_DMA.c",
+              "DocumentMoniker": "C:\\study\\C_TIL\\Linear_List_DMA\\Linear_List_DMA\\linear_list_DMA.c",
+              "RelativeDocumentMoniker": "Linear_List_DMA\\linear_list_DMA.c",
+              "ToolTip": "C:\\study\\C_TIL\\Linear_List_DMA\\Linear_List_DMA\\linear_list_DMA.c",
+              "RelativeToolTip": "Linear_List_DMA\\linear_list_DMA.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T14:54:36.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
